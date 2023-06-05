@@ -31,11 +31,11 @@ nav:
         - name: 博客
           link: https://anzhiy.cn/
           icon: /img/favicon.ico
-    - title: 项目
-      item:
-        - name: 安知鱼图床
-          link: https://image.anzhiy.cn/
-          icon: https://image.anzhiy.cn/favicon.ico
+    # - title: 项目
+    #   item:
+    #     - name: 安知鱼图床
+    #       link: https://image.anzhiy.cn/
+    #       icon: https://image.anzhiy.cn/favicon.ico
 
 # Code Blocks (代码相关)
 # --------------------------------------
@@ -114,7 +114,7 @@ favicon: /img/favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://bu.dusays.com/2023/04/27/64496e511b09c.jpg
+  img: 
   effect: false
 
 # Disable all banner image
